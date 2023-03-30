@@ -1,4 +1,4 @@
-# Sistema de Gestión Supermark
+# 🛒 Supermark
 
 * Contexto 
 
